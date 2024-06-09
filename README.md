@@ -45,4 +45,8 @@ public class DateColorPickerApp extends Application {
     }
 }
 
-![image](https://github.com/Timador/Programas-PAG/assets/168133781/6b2d12f7-5579-4cf0-b1f5-c2b4d15fd897)
+# DateColorPickerApp
+
+Esta aplicación permite a los usuarios seleccionar una fecha y un color, y visualizar estas selecciones en la interfaz.
+
+![Ejecución de la aplicación](./images/ejecucion.png)
